@@ -1,1 +1,1 @@
-<?php echo 'Hello from Master';
+<?php echo 'Hello from Master and Payment';
