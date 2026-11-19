@@ -1,1 +1,1 @@
-<?php echo 'Hello Devops';
+<?php echo 'Hello from Master';
